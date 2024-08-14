@@ -1,0 +1,1 @@
+export type questionnaireType = 'Ratings' | 'Text';

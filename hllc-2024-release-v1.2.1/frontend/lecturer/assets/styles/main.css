@@ -1,0 +1,21 @@
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #ccc;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #bbb;
+}
+
+::-webkit-scrollbar-thumb:active {
+  background-color: #aaa;
+}
+
+
+* {
+  font-family: "Noto Sans Thai", "Museo Sans", sans-serif !important;
+}

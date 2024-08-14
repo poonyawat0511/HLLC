@@ -1,0 +1,51 @@
+{
+  "folders": [
+    {
+      "path": ".",
+      "name": "root"
+    },
+    {
+      "path": "frontend"
+    },
+    {
+      "path": "backend"
+    },
+    {
+      "path": "frontend/student",
+      "name": "student"
+    },
+    {
+      "path": "frontend/admin",
+      "name": "admin"
+    },
+    {
+      "path": "frontend/staff",
+      "name": "staff"
+    },
+    {
+      "path": "frontend/shared",
+      "name": "shared"
+    },
+    {
+      "path": "frontend/sponsor",
+      "name": "sponsor"
+    },
+    {
+      "path": "frontend/lecturer",
+      "name": "lecturer"
+    }
+  ],
+  "settings": {
+    "jest.disabledWorkspaceFolders": ["frontend", "root"],
+    "jest.runMode": {
+      "runAllTestsOnStartup": false,
+      "type": "on-demand"
+    },
+    "jest.outputConfig": {
+      "revealOn": "demand",
+      "revealWithFocus": "none",
+      "clearOnRun": "none"
+    },
+    "testing.openTesting": "neverOpen"
+  }
+}
